@@ -1,7 +1,9 @@
 ## Container Technologies
 
-- Container technology 1: Docker
-- Container technology 2: Podman 
+- Container technology 1: 
+    Docker
+- Container technology 2: 
+    Podman 
 
 ## Investigate Container Networking
 
@@ -39,7 +41,7 @@
 
 - Dockerfile Linter:
 
-    i.) [This is a link](https://hadolint.github.io/hadolint/)
+    i.) [hadolint](https://hadolint.github.io/hadolint/)
 
     ii.) The best practices hadolint searches for is to validate a Dockerfile to build Docker images that follows this guide (https://docs.docker.com/develop/develop-images/dockerfile_best-practices/).
 
